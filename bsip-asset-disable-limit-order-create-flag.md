@@ -18,7 +18,7 @@ Someone who bought tokens in an older round, could start selling them in a
 later round by offering them for a price just slightly under the current ICO
 price.
 
-To protect the ICO-holder of loosing potential buyers the 'only_isser_limit_orders_allowed`
+To protect the ICO-holder of loosing potential buyers the 'only_issuer_limit_orders_allowed`
 is introduced. This means only the creator of the asset would be able to 
 create limit orders.
 
