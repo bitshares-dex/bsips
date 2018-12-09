@@ -1,5 +1,5 @@
     BSIP:       TODO
-    Title:      Introduce the only_isser_limit_orders_allowed flag for assets
+    Title:      Introduce the only_issuer_limit_orders_allowed flag for assets
     Authors:    Fabian Schuh <https://github.com/xeroc>
                 Dmitrij Vinokour <https://github.com/dimfred>
     Status:     Draft
@@ -37,7 +37,7 @@ TODO
 This BSIP comes with only minimal modifications that, however, change
 the behavior of the protocol and thus need a protocol upgrade.
 
-The change is implemented in such a way that a `only_isser_limit_orders_allowed`
+The change is implemented in such a way that a `only_issuer_limit_orders_allowed`
 flag is added to the `asset_issuer_permission_flags`. When a non asset issuer trys to
 create a limit order the `limit_order_create_evaluator` asserts to false and ignores the 
 limit order.
