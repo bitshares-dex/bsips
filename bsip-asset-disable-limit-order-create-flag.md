@@ -1,12 +1,12 @@
-    BSIP: TODO
-    Title: Introduce the only_isser_limit_orders_allowed flag for assets
-    Authors: Fabian Schuh <https://github.com/xeroc>
-             Dmitrij Vinokour <https://github.com/dimfred>
-    Status: Draft
-    Type: Protocol
-    Created: 2018-12-09
+    BSIP:       TODO
+    Title:      Introduce the only_isser_limit_orders_allowed flag for assets
+    Authors:    Fabian Schuh <https://github.com/xeroc>
+                Dmitrij Vinokour <https://github.com/dimfred>
+    Status:     Draft
+    Type:       Protocol
+    Created:    2018-12-09
     Discussion: TODO
-    Worker: <Id of worker proposal>
+    Worker:     <Id of worker proposal>
 
 # Abstract
 
