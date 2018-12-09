@@ -52,7 +52,7 @@ TODO
 # Summary for Shareholders
 
 This BSIP proposes a way to protect ICO-holders of loosing potential customers
-through undercutting of earlier participants in a more round ICO.
+through the undercutting of earlier participants in a more round ICO.
 
 # Copyright
 
